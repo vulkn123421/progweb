@@ -53,3 +53,25 @@ header {
     line-height: 45px;
     display: inline-block;
 }
+
+.publish h3{
+    font-family: "Alegreya";
+    font-size: 40px;
+    line-height: 48px;
+    color: #025157;
+}
+
+.publish{
+    font-size: 16px;
+    color: #343434;
+    line-height: 1.5;
+    margin-bottom: 20px;
+}
+
+.publish > form{
+    display: flex;
+}
+
+.promo{
+    display: flex;
+}
